@@ -1,1 +1,2 @@
-![Naoido's GitHub stats](github-readme-stats-clone-eight.vercel.app/api?username=naoido&theme=vue-dark&show_icons=true&count_private=true) ![Most Used Language](github-readme-stats-clone-eight.vercel.app/api/top-langs/?username=naoido&theme=vue-dark&show_icons=true&layout=compact&count_private=true)
+[![Naoido's GitHub stats](https://github-readme-stats-clone-eight.vercel.app/api?username=naoido&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/naoido/github-readme-stats)
+[![Top Langs](https://github-readme-stats-clone-eight.vercel.app/api/top-langs/?username=naoido&theme=vue-dark&show_icons=true&layout=compact&count_private=true)](https://github.com/naoido/github-readme-stats)
