@@ -1,2 +1,2 @@
-[![Naoido's GitHub stats](https://git-hub-readme-stats-l2xb.vercel.app/api?username=naoido&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/naoido/github-readme-stats)
-[![Top Langs](https://git-hub-readme-stats-l2xb.vercel.app/api/top-langs/?username=naoido&theme=vue-dark&show_icons=true)](https://github.com/naoido/github-readme-stats)
+[![Naoido's GitHub stats](https://git-hub-readme-stats-l2xb.vercel.app/api?username=naoido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/naoido)
+[![Top Langs](https://git-hub-readme-stats-l2xb.vercel.app/api/top-langs/?username=naoido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/naoido)
