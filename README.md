@@ -15,7 +15,7 @@
     <h3 align="center">Languages</h3>
     <p  align="center">
         <a href="https://skillicons.dev">
-            <img height=300 src="https://skillicons.dev/icons?i=java,kotlin,nodejs,python,vue,electron,html,js,jquery,mysql,spring,nuxt,linux&perline=5&theme=dark">
+            <img height=300 src="https://skillicons.dev/icons?i=java,kotlin,nodejs,python,vue,electron,html,js,jquery,mysql,spring,nuxt,linux,docker&perline=5&theme=dark">
         </a>
     </p>
     <h3 align="center">Editor / IDE</h3>
