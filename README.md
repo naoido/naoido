@@ -36,6 +36,12 @@
             <img height=100 src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=dark">
         </a>
     </p>
+    <h3 align="center">Tools</h3>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img height=100 src="https://skillicons.dev/icons?i=obsidian&theme=dark">
+        </a>
+    </p>
     <h3 align="center">OS</h3>
     <p align="center">
         <a href="https://skillicons.dev">
