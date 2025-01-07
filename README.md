@@ -13,7 +13,7 @@
     <h3 align="center">✨ Favorite ✨</h3>
     <p  align="center">
         <a herf="https://skillicons.dev">
-            <img height=200 src="https://skillicons.dev/icons?i=java,kotlin,go,python,flutter,dart,,terraform,obsidian,aws,cloudflare&perline=6&theme=dark">
+            <img height=200 src="https://skillicons.dev/icons?i=java,kotlin,go,python,flutter,dart,k8s,terraform,obsidian,aws,cloudflare,jenkins&perline=6&theme=dark">
         </a>
     </p>
     <h3 align="center">Clouds</h3>
