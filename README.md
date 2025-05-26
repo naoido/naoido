@@ -24,7 +24,7 @@ Hi, I'm probably a programmer.
 <a href="https://github.com/naoido">
     <p>
         <img height=200 align="center" src="https://git-hub-readme-stats.vercel.app/api?username=naoido&show_icons=true&count_private=true"/>
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoido&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs&langs_count=6&layout=compact"/>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoido&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs&langs_count=6"/>
     </p>
 </a>
 
