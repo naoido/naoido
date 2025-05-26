@@ -17,7 +17,7 @@ Hi, I'm probably a programmer.
 </a>
 <h3>💻　OS</h3>
 <a href="https://skillicons.dev">
-    <img height=100 src="https://skillicons.dev/icons?i=linux,apple,windows,raspberrypi&theme=dark">
+    <img height=100 src="https://skillicons.dev/icons?i=linux,apple,windows,raspberrypi&theme=light">
 </a>
 
 # Status 📈
