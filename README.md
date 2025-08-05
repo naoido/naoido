@@ -8,16 +8,16 @@ Hi, I'm probably a programmer.
 # Skils 👻
 <h3>❤️ Favorite</h3>
 <a herf="https://skillicons.dev">
-    <img height=300 src="https://skillicons.dev/icons?i=java,kotlin,go,typescript,k8s,python,flutter,dart,lua,terraform,aws,cloudflare,git,github,figma,grafana,ansible&perline=6&theme=light">
+    <img width=600 src="https://skillicons.dev/icons?i=java,kotlin,go,typescript,k8s,python,flutter,dart,lua,terraform,aws,cloudflare,git,github,figma,grafana,ansible&perline=6&theme=light">
 </a>
 
 <h3>🛠️ Editor / IDE</h3>
 <a href="https://skillicons.dev">
-    <img height=100 src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=light">
+    <img width=300 src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=light">
 </a>
 <h3>💻　OS</h3>
 <a href="https://skillicons.dev">
-    <img height=100 src="https://skillicons.dev/icons?i=linux,apple,windows,raspberrypi&theme=light">
+    <img width=400 src="https://skillicons.dev/icons?i=linux,apple,windows,raspberrypi&theme=light">
 </a>
 
 # Status 📈
