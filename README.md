@@ -1,7 +1,7 @@
 # About naoido 👀
 Hi, I'm probably a programmer.
 
-[blog](https://blog.naoido.com/), [zenn](https://zenn.dev/naoido)
+[blog](https://blog.naoido.com/), [zenn](https://zenn.dev/naoido), [topaz](https://topaz.dev/naoido)
 
 ## Activity
 - [2025.07.23 Progate - Powered by AWS 2025.07 🏆AWS 🏆Runner-up](https://topaz.dev/projects/ff454ddba004e991b867)
