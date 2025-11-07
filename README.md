@@ -1,7 +1,10 @@
 # About naoido 👀
 Hi, I'm probably a programmer.
 
+[blog](https://blog.naoido.com/), [zenn](https://zenn.dev/naoido)
+
 ## Activity
+- [2025.07.23 Progate - Powered by AWS 2025.07 🏆AWS 🏆Runner-up](https://topaz.dev/projects/ff454ddba004e991b867)
 - [2024.11.24 Hack'z - Loveca Cup 🏆 Progate Award](https://topaz.dev/projects/575f49eb3bc26cf370b1)
 - [2024.12.15 Hack'z - Ankylo Cup 🏆 MVP](https://topaz.dev/projects/a939290be6545eff5895)
 
