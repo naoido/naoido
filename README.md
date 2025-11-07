@@ -16,7 +16,7 @@ Hi, I'm probably a programmer.
 
 <h3>🛠️ Editor / IDE</h3>
 <a href="https://skillicons.dev">
-    <img width=300 src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=light">
+    <img width=200 src="https://skillicons.dev/icons?i=idea,vscode&theme=light">
 </a>
 <h3>💻　OS</h3>
 <a href="https://skillicons.dev">
